@@ -4,7 +4,7 @@ library(shape)
 
 source("draw.four.R")
 source("draw.five.R")
-source("draw.mouth")
+source("draw.mouth.R")
 
 
 data <- read.table("file.csv", sep = ",", header = TRUE)
